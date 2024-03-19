@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script>
+      function subscribe() {
+        var email = prompt("What is your email?", "????");
+
+        $.post({
+          type: "POST",
+          url: "email",
+          data: email,
+          contentType: "application/text; charset=utf-8",
+          dataType: "json"
+        }).done(function(data) {
+          alert(data);
+        }).fail(function(data) {
+          alert("POST failed");
+        });
+      }
+    </script>
+  </head>
+  <body bgcolor = "lightgrey">
+    <h1>Welcome!</h1>
+    <button onclick="subscribe()">Subscribe</button>  
+    <p><a href = "donate.html?from=A" style = "color: blue"><h2>Please Donate</h2></a></p>
+    <h2>The following graphs are based on 2017 QS World University Rankings Top 400.</h2>
+    <p>For detailed data, please visit<a href = "browse.html" style = "color: black"> here.</a></p>
+   
+    <img src = "plot1.svg"><br><br><br><br>
+    <img src = "plot1.svg?legend=size"><br><br><br><br>
+    <img src = "plot2.svg"><br>
+      
+  </body>
+</html>

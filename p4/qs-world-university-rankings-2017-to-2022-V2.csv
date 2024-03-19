@@ -1,0 +1,401 @@
+university,year,rank_display,score,link,country,city,region,type,student_faculty_ratio,size
+Massachusetts Institute of Technology (MIT) ,2017,1,100,https://www.topuniversities.com/universities/massachusetts-institute-technology-mit,United States,Cambridge,North America,Private,4,M
+Stanford University,2017,2,98.7,https://www.topuniversities.com/universities/stanford-university,United States,Stanford,North America,Private,3,L
+Harvard University,2017,3,98.3,https://www.topuniversities.com/universities/harvard-university,United States,Cambridge,North America,Private,5,L
+University of Cambridge,2017,4,97.2,https://www.topuniversities.com/universities/university-cambridge,United Kingdom,Cambridge,Europe,Public,4,L
+California Institute of Technology (Caltech),2017,5,96.9,https://www.topuniversities.com/universities/california-institute-technology-caltech,United States,Pasadena,North America,Private,2,S
+University of Oxford,2017,6,96.8,https://www.topuniversities.com/universities/university-oxford,United Kingdom,Oxford,Europe,Public,3,L
+UCL,2017,7,95.6,https://www.topuniversities.com/universities/ucl,United Kingdom,London,Europe,Public,5,XL
+ETH Zurich - Swiss Federal Institute of Technology,2017,8,94.2,https://www.topuniversities.com/universities/eth-zurich-swiss-federal-institute-technology,Switzerland,Zürich,Europe,Public,7,L
+Imperial College London,2017,9,94.1,https://www.topuniversities.com/universities/imperial-college-london,United Kingdom,London,Europe,Public,5,L
+University of Chicago,2017,10,93,https://www.topuniversities.com/universities/university-chicago,United States,Chicago,North America,Private,6,L
+Princeton University,2017,11,92.8,https://www.topuniversities.com/universities/princeton-university,United States,Princeton,North America,Private,8,M
+National University of Singapore (NUS),2017,12,91.5,https://www.topuniversities.com/universities/national-university-singapore-nus,Singapore,Singapore,Asia,Public,7,XL
+"Nanyang Technological University, Singapore (NTU)",2017,13,91.4,https://www.topuniversities.com/universities/nanyang-technological-university-singapore-ntu,Singapore,Singapore,Asia,Public,6,L
+EPFL,2017,14,91.1,https://www.topuniversities.com/universities/epfl,Switzerland,Lausanne,Europe,Public,6,M
+Yale University,2017,15,90.9,https://www.topuniversities.com/universities/yale-university,United States,New Haven,North America,Private,2,M
+Cornell University,2017,16,90.1,https://www.topuniversities.com/universities/cornell-university,United States,Ithaca,North America,Private,8,L
+Johns Hopkins University,2017,17,89.3,https://www.topuniversities.com/universities/johns-hopkins-university,United States,Baltimore,North America,Private,3,L
+University of Pennsylvania,2017,18,89,https://www.topuniversities.com/universities/university-pennsylvania,United States,Philadelphia,North America,Private,4,L
+The University of Edinburgh,2017,19,88.9,https://www.topuniversities.com/universities/university-edinburgh,United Kingdom,Edinburgh,Europe,Public,7,XL
+Columbia University,2017,20,88.6,https://www.topuniversities.com/universities/columbia-university,United States,New York City,North America,Private,4,L
+King's College London,2017,21,87.7,https://www.topuniversities.com/universities/kings-college-london,United Kingdom,London,Europe,Public,7,L
+The Australian National University,2017,22,87.3,https://www.topuniversities.com/universities/australian-national-university,Australia,Canberra,Oceania,Public,9,L
+University of Michigan-Ann Arbor,2017,23,86.4,https://www.topuniversities.com/universities/university-michigan-ann-arbor,United States,Ann Arbor,North America,Public,6,XL
+Tsinghua University,2017,24,86,https://www.topuniversities.com/universities/tsinghua-university,China (Mainland),Beijing,Asia,Public,6,XL
+Duke University,2017,24,86,https://www.topuniversities.com/universities/duke-university,United States,Durham,North America,Private,3,L
+Northwestern University,2017,26,85.7,https://www.topuniversities.com/universities/northwestern-university,United States,Evanston,North America,Private,5,L
+The University of Hong Kong,2017,27,85.4,https://www.topuniversities.com/universities/university-hong-kong,Hong Kong SAR,Hong Kong,Asia,Public,7,L
+"University of California, Berkeley (UCB)",2017,28,85.2,https://www.topuniversities.com/universities/university-california-berkeley-ucb,United States,Berkeley,North America,Public,11,XL
+The University of Manchester,2017,29,84.8,https://www.topuniversities.com/universities/university-manchester,United Kingdom,Manchester,Europe,Public,8,XL
+McGill University,2017,30,84.1,https://www.topuniversities.com/universities/mcgill-university,Canada,Montreal,North America,Public,7,L
+"University of California, Los Angeles (UCLA)",2017,31,84,https://www.topuniversities.com/universities/university-california-los-angeles-ucla,United States,Los Angeles,North America,Public,10,XL
+University of Toronto,2017,32,83.8,https://www.topuniversities.com/universities/university-toronto,Canada,Toronto,North America,Public,8,XL
+"Ecole normale supérieure, Paris",2017,33,79.9,https://www.topuniversities.com/universities/ecole-normale-superieure-paris,France,Paris,Europe,Public,11,S
+The University of Tokyo,2017,34,82.6,https://www.topuniversities.com/universities/university-tokyo,Japan,Tokyo,Asia,Public,6,L
+Seoul National University,2017,35,82.1,https://www.topuniversities.com/universities/seoul-national-university,South Korea,Seoul,Asia,Public,7,L
+The Hong Kong University of Science and Technology,2017,36,81.8,https://www.topuniversities.com/universities/hong-kong-university-science-technology,Hong Kong SAR,Hong Kong,Asia,Public,8,M
+Kyoto University,2017,37,81.7,https://www.topuniversities.com/universities/kyoto-university,Japan,Kyoto,Asia,Public,6,L
+The London School of Economics and Political Science (LSE),2017,37,81.7,https://www.topuniversities.com/universities/london-school-economics-political-science-lse,United Kingdom,London,Europe,Public,10,M
+Peking University,2017,39,81.3,https://www.topuniversities.com/universities/peking-university,China (Mainland),Beijing,Asia,Public,6,XL
+"University of California, San Diego (UCSD)",2017,40,80.6,https://www.topuniversities.com/universities/university-california-san-diego-ucsd,United States,San Diego,North America,Public,8,XL
+University of Bristol,2017,41,79.6,https://www.topuniversities.com/universities/university-bristol,United Kingdom,Bristol,Europe,Public,8,L
+The University of Melbourne,2017,42,79.5,https://www.topuniversities.com/universities/university-melbourne,Australia,Parkville,Oceania,Public,19,S
+Fudan University,2017,43,79.4,https://www.topuniversities.com/universities/fudan-university,China (Mainland),Shanghai,Asia,Public,6,L
+The Chinese University of Hong Kong (CUHK),2017,44,78.1,https://www.topuniversities.com/universities/chinese-university-hong-kong-cuhk,Hong Kong SAR,Hong Kong,Asia,Public,8,L
+University of British Columbia,2017,45,78,https://www.topuniversities.com/universities/university-british-columbia,Canada,Vancouver,North America,Public,9,XL
+The University of Sydney,2017,46,77.9,https://www.topuniversities.com/universities/university-sydney,Australia,Sydney,Oceania,Public,13,XL
+New York University (NYU),2017,46,77.9,https://www.topuniversities.com/universities/new-york-university-nyu,United States,New York City,North America,Private,6,XL
+KAIST - Korea Advanced Institute of Science & Technology,2017,46,77.9,https://www.topuniversities.com/universities/kaist-korea-advanced-institute-science-technology,South Korea,Daejeon,Asia,Public,8,M
+The University of New South Wales (UNSW Sydney),2017,49,77.8,https://www.topuniversities.com/universities/university-new-south-wales-unsw-sydney,Australia,Sydney,Oceania,Public,14,XL
+Brown University,2017,49,77.8,https://www.topuniversities.com/universities/brown-university,United States,Providence,North America,Private,7,M
+The University of Queensland,2017,51,77.6,https://www.topuniversities.com/universities/university-queensland,Australia,Brisbane,Oceania,Public,12,XL
+The University of Warwick,2017,51,77.6,https://www.topuniversities.com/universities/university-warwick,United Kingdom,Coventry,Europe,Public,9,L
+University of Wisconsin-Madison,2017,53,75.7,https://www.topuniversities.com/universities/university-wisconsin-madison,United States,Madison,North America,Public,8,XL
+Ecole Polytechnique,2017,53,69.9,https://www.topuniversities.com/universities/ecole-polytechnique,France,Palaiseau,Europe,Public,5,S
+City University of Hong Kong,2017,55,75.4,https://www.topuniversities.com/universities/city-university-hong-kong,Hong Kong SAR,Hong Kong,Asia,Public,6,M
+Tokyo Institute of Technology (Tokyo Tech),2017,56,74.9,https://www.topuniversities.com/universities/tokyo-institute-technology-tokyo-tech,Japan,Tokyo,Asia,Public,7,M
+University of Amsterdam,2017,57,74.3,https://www.topuniversities.com/universities/university-amsterdam,Netherlands,Amsterdam,Europe,Public,11,XL
+Carnegie Mellon University,2017,58,74.2,https://www.topuniversities.com/universities/carnegie-mellon-university,United States,Pittsburgh,North America,Private,9,L
+University of Washington,2017,59,73.9,https://www.topuniversities.com/universities/university-washington,United States,Seattle,North America,Public,15,XL
+Technical University of Munich,2017,60,72.4,https://www.topuniversities.com/universities/technical-university-munich,Germany,Munich,Europe,Public,5,XL
+Shanghai Jiao Tong University,2017,61,72.2,https://www.topuniversities.com/universities/shanghai-jiao-tong-university,China (Mainland),Shanghai,Asia,Public,9,XL
+Delft University of Technology,2017,62,72.1,https://www.topuniversities.com/universities/delft-university-technology,Netherlands,Delft,Europe,Public,10,L
+Osaka University,2017,63,71.7,https://www.topuniversities.com/universities/osaka-university,Japan,Osaka City,Asia,Public,7,L
+University of Glasgow,2017,63,71.7,https://www.topuniversities.com/universities/university-glasgow,United Kingdom,Glasgow,Europe,Public,9,L
+Monash University,2017,65,71.6,https://www.topuniversities.com/universities/monash-university,Australia,Melbourne,Oceania,Public,15,XL
+University of Illinois at Urbana-Champaign,2017,66,71.4,https://www.topuniversities.com/universities/university-illinois-urbana-champaign,United States,Champaign,North America,Public,17,XL
+University of Texas at Austin,2017,67,70.7,https://www.topuniversities.com/universities/university-texas-austin,United States,Austin,North America,Public,17,XL
+Ludwig-Maximilians-Universität München,2017,68,70.2,https://www.topuniversities.com/universities/ludwig-maximilians-universitat-munchen,Germany,Munich,Europe,Public,9,XL
+National Taiwan University (NTU),2017,68,70.2,https://www.topuniversities.com/universities/national-taiwan-university-ntu,Taiwan,Taipei City,Asia,Public,10,L
+University of Copenhagen,2017,68,70.2,https://www.topuniversities.com/universities/university-copenhagen,Denmark,Copenhagen,Europe,Public,4,XL
+Georgia Institute of Technology,2017,71,69.8,https://www.topuniversities.com/universities/georgia-institute-technology,United States,Atlanta,North America,Public,19,L
+Ruprecht-Karls-Universität Heidelberg,2017,72,69.7,https://www.topuniversities.com/universities/ruprecht-karls-universitat-heidelberg,Germany,Heidelberg,Europe,Public,5,L
+Lund University,2017,73,69.1,https://www.topuniversities.com/universities/lund-university,Sweden,Lund,Europe,Public,9,L
+Durham University,2017,74,68.8,https://www.topuniversities.com/universities/durham-university,United Kingdom,Durham,Europe,Public,11,L
+Tohoku University,2017,75,68.7,https://www.topuniversities.com/universities/tohoku-university,Japan,Sendai City,Asia,Public,5,L
+University of Nottingham,2017,75,68.7,https://www.topuniversities.com/universities/university-nottingham,United Kingdom,Nottingham,Europe,Public,10,XL
+University of St Andrews,2017,77,68.2,https://www.topuniversities.com/universities/university-st-andrews,United Kingdom,St. Andrews,Europe,Public,8,M
+"University of North Carolina, Chapel Hill",2017,78,68.1,https://www.topuniversities.com/universities/university-north-carolina-chapel-hill,United States,Chapel Hill,North America,Public,7,XL
+KU Leuven,2017,79,67.9,https://www.topuniversities.com/universities/ku-leuven,Belgium,Leuven,Europe,Public,18,XL
+University of Zurich,2017,80,67.8,https://www.topuniversities.com/universities/university-zurich,Switzerland,Zürich,Europe,Public,6,L
+The University of Auckland,2017,81,67.3,https://www.topuniversities.com/universities/university-auckland,New Zealand,Auckland,Oceania,Public,12,L
+University of Birmingham,2017,82,67.2,https://www.topuniversities.com/universities/university-birmingham,United Kingdom,Birmingham,Europe,Public,9,XL
+Pohang University of Science And Technology (POSTECH),2017,83,67,https://www.topuniversities.com/universities/pohang-university-science-technology-postech,South Korea,Pohang ,Asia,Private,4,S
+The University of Sheffield,2017,84,66.9,https://www.topuniversities.com/universities/university-sheffield,United Kingdom,Sheffield,Europe,Public,8,L
+Universidad de Buenos Aires (UBA),2017,85,65.8,https://www.topuniversities.com/universities/universidad-de-buenos-aires-uba,Argentina,Buenos Aires,Latin America,Public,7,XL
+"University of California, Davis",2017,85,65.8,https://www.topuniversities.com/universities/university-california-davis,United States,Davis,North America,Public,10,XL
+University of Southampton,2017,87,65.6,https://www.topuniversities.com/universities/university-southampton,United Kingdom,Southampton,Europe,Public,9,L
+The Ohio State University,2017,88,65.4,https://www.topuniversities.com/universities/ohio-state-university,United States,Columbus,North America,Public,9,XL
+Boston University,2017,89,65.2,https://www.topuniversities.com/universities/boston-university,United States,Boston,North America,Private,10,L
+Rice University,2017,90,65,https://www.topuniversities.com/universities/rice-university,United States,Houston,North America,Private,7,M
+University of Helsinki,2017,91,64.7,https://www.topuniversities.com/universities/university-helsinki,Finland,Helsinki,Europe,Public,8,L
+Purdue University,2017,92,64.5,https://www.topuniversities.com/universities/purdue-university,United States,West Lafayette,North America,Public,15,XL
+University of Leeds,2017,93,64.2,https://www.topuniversities.com/universities/university-leeds,United Kingdom,Leeds,Europe,Public,10,XL
+University of Alberta,2017,94,64,https://www.topuniversities.com/universities/university-alberta,Canada,Edmonton,North America,Public,9,XL
+Pennsylvania State University,2017,95,63.6,https://www.topuniversities.com/universities/pennsylvania-state-university,United States,University Park,North America,Public,11,XL
+University of Geneva,2017,95,63.6,https://www.topuniversities.com/universities/university-geneva,Switzerland,Geneva,Europe,Public,9,L
+KTH Royal Institute of Technology ,2017,97,63.1,https://www.topuniversities.com/universities/kth-royal-institute-technology,Sweden,Stockholm,Europe,Public,8,L
+Uppsala University,2017,98,62.8,https://www.topuniversities.com/universities/uppsala-university,Sweden,Uppsala,Europe,Public,10,L
+Korea University,2017,98,62.8,https://www.topuniversities.com/universities/korea-university,South Korea,Seoul,Asia,Private,6,L
+"Trinity College Dublin, The University of Dublin",2017,98,62.8,https://www.topuniversities.com/universities/trinity-college-dublin-university-dublin,Ireland,Dublin,Europe,Public,12,L
+"KIT, Karlsruhe Institute of Technology",2017,98,62.8,https://www.topuniversities.com/universities/kit-karlsruhe-institute-technology,Germany,Karlsruhe,Europe,Public,10,L
+Leiden University,2017,102,62.7,https://www.topuniversities.com/universities/leiden-university,Netherlands,Leiden,Europe,Public,12,XL
+The University of Western Australia,2017,102,62.7,https://www.topuniversities.com/universities/university-western-australia,Australia,Perth,Oceania,Public,12,L
+Utrecht University,2017,104,62.4,https://www.topuniversities.com/universities/utrecht-university,Netherlands,Utrecht,Europe,Public,10,XL
+University of Science and Technology of China,2017,104,62.4,https://www.topuniversities.com/universities/university-science-technology-china,China (Mainland),Hefei,Asia,Public,7,L
+Sungkyunkwan University(SKKU),2017,106,61.5,https://www.topuniversities.com/universities/sungkyunkwan-universityskku,South Korea,Suwon,Asia,Private,7,L
+Washington University in St. Louis,2017,106,62.2,https://www.topuniversities.com/universities/washington-university-st-louis,United States,St. Louis,North America,Private,5,L
+Lomonosov Moscow State University,2017,108,62.1,https://www.topuniversities.com/universities/lomonosov-moscow-state-university,Russia,Moscow,Europe,Public,5,XL
+Technical University of Denmark,2017,109,61.8,https://www.topuniversities.com/universities/technical-university-denmark,Denmark,Kongens Lyngby,Europe,Public,4,M
+Zhejiang University,2017,110,61.6,https://www.topuniversities.com/universities/zhejiang-university,China (Mainland),Hangzhou,Asia,Public,7,XL
+The Hong Kong Polytechnic University,2017,111,61.4,https://www.topuniversities.com/universities/hong-kong-polytechnic-university,Hong Kong SAR,Hong Kong,Asia,Public,7,L
+Yonsei University,2017,112,60.5,https://www.topuniversities.com/universities/yonsei-university,South Korea,Seoul,Asia,Private,6,L
+University of Oslo,2017,113,60,https://www.topuniversities.com/universities/university-oslo,Norway,Oslo,Europe,Public,7,L
+University of Groningen,2017,113,60,https://www.topuniversities.com/universities/university-groningen,Netherlands,Groningen,Europe,Public,8,XL
+Nanjing University,2017,115,59.6,https://www.topuniversities.com/universities/nanjing-university,China (Mainland),Nanjing,Asia,Public,11,XL
+Nagoya University,2017,115,59.6,https://www.topuniversities.com/universities/nagoya-university,Japan,Nagoya,Asia,Public,6,L
+Aarhus University,2017,117,59.5,https://www.topuniversities.com/universities/aarhus-university,Denmark,,Europe,Public,11,L
+"University of California, Santa Barbara (UCSB)",2017,118,59.4,https://www.topuniversities.com/universities/university-california-santa-barbara-ucsb,United States,Santa Barbara,North America,Public,16,L
+Wageningen University & Research,2017,119,59.1,https://www.topuniversities.com/universities/wageningen-university-research,Netherlands,Wageningen,Europe,Public,5,L
+Universidade de São Paulo,2017,120,59,https://www.topuniversities.com/universities/universidade-de-sao-paulo,Brazil,São Paulo,Latin America,Public,13,XL
+Humboldt-Universität zu Berlin,2017,121,58.9,https://www.topuniversities.com/universities/humboldt-universitat-zu-berlin,Germany,Berlin,Europe,Public,17,XL
+Eindhoven University of Technology,2017,121,58.9,https://www.topuniversities.com/universities/eindhoven-university-technology,Netherlands,Eindhoven,Europe,Public,9,M
+Freie Universitaet Berlin,2017,123,58.7,https://www.topuniversities.com/universities/freie-universitaet-berlin,Germany,Berlin,Europe,Public,25,XL
+Queen Mary University of London,2017,123,58.7,https://www.topuniversities.com/universities/queen-mary-university-london,United Kingdom,London,Europe,Public,9,L
+The University of Adelaide,2017,125,58.6,https://www.topuniversities.com/universities/university-adelaide,Australia,Adelaide,Oceania,Public,13,L
+Université de Montréal ,2017,126,58.5,https://www.topuniversities.com/universities/universite-de-montreal,Canada,Montreal,North America,Public,7,XL
+University of York,2017,127,58.4,https://www.topuniversities.com/universities/university-york,United Kingdom,York,Europe,Public,9,L
+Universidad Nacional Autónoma de México  (UNAM),2017,128,58.3,https://www.topuniversities.com/universities/universidad-nacional-autonoma-de-mexico-unam,Mexico,Mexico City,Latin America,Public,9,XL
+Lancaster University,2017,129,57.9,https://www.topuniversities.com/universities/lancaster-university,United Kingdom,Lancaster,Europe,Public,10,L
+Hokkaido University,2017,130,57.8,https://www.topuniversities.com/universities/hokkaido-university,Japan,Sapporo,Asia,Public,7,L
+Ghent University,2017,131,57.6,https://www.topuniversities.com/universities/ghent-university,Belgium,Ghent,Europe,Public,7,XL
+"University of Maryland, College Park",2017,131,57.6,https://www.topuniversities.com/universities/university-maryland-college-park,United States,College Park,North America,Public,10,XL
+Universiti Malaya (UM),2017,133,57.1,https://www.topuniversities.com/universities/universiti-malaya-um,Malaysia,Kuala Lumpur,Asia,Public,8,L
+Aalto University,2017,133,57.1,https://www.topuniversities.com/universities/aalto-university,Finland,Espoo,Europe,Public,9,L
+Kyushu University,2017,135,56.8,https://www.topuniversities.com/universities/kyushu-university,Japan,Fukuoka City,Asia,Public,7,L
+University of Southern California,2017,136,56.7,https://www.topuniversities.com/universities/university-southern-california,United States,Los Angeles,North America,Private,10,XL
+University of Minnesota Twin Cities,2017,137,56.4,https://www.topuniversities.com/universities/university-minnesota-twin-cities,United States,Minneapolis,North America,Public,11,XL
+University of Lausanne,2017,138,56.3,https://www.topuniversities.com/universities/university-lausanne,Switzerland,Lausanne,Europe,Public,9,L
+Chalmers University of Technology,2017,139,56.1,https://www.topuniversities.com/universities/chalmers-university-technology,Sweden,Gothenburg,Europe,Private,8,M
+Cardiff University,2017,140,55.7,https://www.topuniversities.com/universities/cardiff-university,United Kingdom,Cardiff,Europe,Public,9,L
+Université Pierre et Marie Curie (UPMC),2017,141,57.5,https://www.topuniversities.com/universities/universite-pierre-et-marie-curie-upmc,France,Paris,Europe,Public,9,XL
+University of Basel,2017,141,55.6,https://www.topuniversities.com/universities/university-basel,Switzerland,Basel,Europe,Public,9,M
+University of Aberdeen,2017,141,55.6,https://www.topuniversities.com/universities/university-aberdeen,United Kingdom,Aberdeen,Europe,Public,11,L
+Erasmus University Rotterdam ,2017,144,55.5,https://www.topuniversities.com/universities/erasmus-university-rotterdam,Netherlands,Rotterdam,Europe,Public,11,L
+University of Pittsburgh,2017,145,55.1,https://www.topuniversities.com/universities/university-pittsburgh,United States,Pittsburgh,North America,Public,6,L
+RWTH Aachen University,2017,146,55,https://www.topuniversities.com/universities/rwth-aachen-university,Germany,Aachen,Europe,Public,19,XL
+Pontificia Universidad Católica de Chile (UC),2017,147,54.7,https://www.topuniversities.com/universities/pontificia-universidad-cat%C3%B3lica-de-chile-uc,Chile,Santiago,Latin America,Private,12,L
+The Hebrew University of Jerusalem,2017,148,54.2,https://www.topuniversities.com/universities/hebrew-university-jerusalem,Israel,Jerusalem,Asia,Public,7,L
+McMaster University,2017,149,54.1,https://www.topuniversities.com/universities/mcmaster-university,Canada,Hamilton,North America,Public,7,L
+Emory University,2017,149,54.1,https://www.topuniversities.com/universities/emory-university,United States,Atlanta,North America,Private,5,L
+National Tsing Hua University,2017,151,53.9,https://www.topuniversities.com/universities/national-tsing-hua-university,Taiwan,Hsinchu City,Asia,Public,10,L
+University of Waterloo,2017,152,53.8,https://www.topuniversities.com/universities/university-waterloo,Canada,Waterloo,North America,Public,18,XL
+Indian Institute of Science,2017,152,53.8,https://www.topuniversities.com/universities/indian-institute-science,India,Bangalore,Asia,Public,9,S
+Université catholique de Louvain (UCLouvain),2017,154,53.4,https://www.topuniversities.com/universities/universite-catholique-de-louvain-uclouvain,Belgium,Louvain-la-Neuve,Europe,Private,19,L
+University of Vienna,2017,155,53.3,https://www.topuniversities.com/universities/university-vienna,Austria,Vienna,Europe,Public,12,XL
+"University of California, Irvine",2017,156,53.2,https://www.topuniversities.com/universities/university-california-irvine,United States,Irvine,North America,Public,13,XL
+University of Liverpool,2017,157,53.1,https://www.topuniversities.com/universities/university-liverpool,United Kingdom,Liverpool,Europe,Public,10,L
+Dartmouth College,2017,158,53,https://www.topuniversities.com/universities/dartmouth-college,United States,Hanover,North America,Private,8,M
+University of Bath,2017,159,52.7,https://www.topuniversities.com/universities/university-bath,United Kingdom,Bath,Europe,Public,12,L
+Universitat de Barcelona,2017,160,52.6,https://www.topuniversities.com/universities/universitat-de-barcelona,Spain,Barcelona,Europe,Public,15,XL
+Texas A&M University,2017,160,52.6,https://www.topuniversities.com/universities/texas-am-university,United States,Galveston,North America,Public,21,XL
+Michigan State University,2017,160,52.6,https://www.topuniversities.com/universities/michigan-state-university,United States,East Lansing,North America,Public,15,XL
+Albert-Ludwigs-Universitaet Freiburg,2017,163,52.2,https://www.topuniversities.com/universities/albert-ludwigs-universitaet-freiburg,Germany,Freiburg im Breisgau,Europe,Public,11,L
+Technische Universität Berlin (TU Berlin),2017,164,52.1,https://www.topuniversities.com/universities/technische-universitat-berlin-tu-berlin,Germany,Berlin,Europe,Public,10,L
+The University of Exeter,2017,164,52.1,https://www.topuniversities.com/universities/university-exeter,United Kingdom,Exeter,Europe,Public,10,L
+CentraleSupélec,2017,164,52.3,https://www.topuniversities.com/universities/centralesupelec,France,Saint-Aubin,Europe,Public,,S
+Eberhard Karls Universität Tübingen,2017,167,51.9,https://www.topuniversities.com/universities/eberhard-karls-universitat-tubingen,Germany,Tübingen,Europe,Public,5,L
+Newcastle University,2017,168,51.8,https://www.topuniversities.com/universities/newcastle-university,United Kingdom,Newcastle upon Tyne,Europe,Public,10,L
+University of Otago,2017,169,51.3,https://www.topuniversities.com/universities/university-otago,New Zealand,Dunedin,Oceania,Public,14,L
+University of Colorado Boulder,2017,170,51.2,https://www.topuniversities.com/universities/university-colorado-boulder,United States,Boulder,North America,Public,11,XL
+Hanyang University,2017,171,50.6,https://www.topuniversities.com/universities/hanyang-university,South Korea,Seoul,Asia,Private,7,L
+University of Virginia,2017,172,50.5,https://www.topuniversities.com/universities/university-virginia,United States,Charlottesville,North America,Public,8,L
+Maastricht University ,2017,173,50.3,https://www.topuniversities.com/universities/maastricht-university,Netherlands,Maastricht,Europe,Public,13,L
+National Chiao Tung University,2017,174,38.2,https://www.topuniversities.com/universities/national-chiao-tung-university,Taiwan,Hsinchu City,Asia,Public,10,M
+University of Reading,2017,175,50,https://www.topuniversities.com/universities/university-reading,United Kingdom,Reading,Europe,Public,12,L
+University College Dublin,2017,176,49.7,https://www.topuniversities.com/universities/university-college-dublin,Ireland,Dublin,Europe,Public,12,L
+University of Göttingen,2017,177,49.6,https://www.topuniversities.com/universities/university-gottingen,Germany,Göttingen,Europe,Public,8,XL
+École Normale Supérieure de Lyon,2017,177,49.6,https://www.topuniversities.com/universities/ecole-normale-superieure-de-lyon,France,Lyon,Europe,Public,5,S
+University of Bergen,2017,177,49.6,https://www.topuniversities.com/universities/university-bergen,Norway,Bergen,Europe,Public,7,M
+University of Twente,2017,177,49.6,https://www.topuniversities.com/universities/university-twente,Netherlands,Enschede,Europe,Public,10,L
+University of Bern,2017,181,49.3,https://www.topuniversities.com/universities/university-bern,Switzerland,Bern,Europe,Public,8,M
+Vrije Universiteit Brussel (VUB),2017,182,48.9,https://www.topuniversities.com/universities/vrije-universiteit-brussel-vub,Belgium,Brussels,Europe,Public,7,L
+Politecnico di Milano,2017,183,48.8,https://www.topuniversities.com/universities/politecnico-di-milano,Italy,Milan,Europe,Public,21,XL
+Technische Universität Wien,2017,183,48.8,https://www.topuniversities.com/universities/vienna-university-technology,Austria,Vienna,Europe,Public,11,M
+University of Florida,2017,185,48.6,https://www.topuniversities.com/universities/university-florida,United States,Gainesville,North America,Public,7,XL
+University of Rochester,2017,185,48.6,https://www.topuniversities.com/universities/university-rochester,United States,Rochester,North America,Private,5,M
+Indian Institute of Technology Delhi (IITD),2017,185,48.6,https://www.topuniversities.com/universities/indian-institute-technology-delhi-iitd,India,New Delhi,Asia,Public,11,M
+University of Illinois at Chicago (UIC),2017,187,48.4,https://www.topuniversities.com/universities/university-illinois-chicago-uic,United States,Chicago,North America,Public,10,L
+University of Sussex,2017,187,48.4,https://www.topuniversities.com/universities/university-sussex,United Kingdom,Brighton,Europe,Public,14,L
+King Fahd University of Petroleum & Minerals,2017,189,48.3,https://www.topuniversities.com/universities/king-fahd-university-petroleum-minerals,Saudi Arabia,Dhahran,Asia,Public,7,M
+Radboud University ,2017,190,48.2,https://www.topuniversities.com/universities/radboud-university,Netherlands,Nijmegen,Europe,Public,11,L
+Universidade Estadual de Campinas (Unicamp),2017,191,48,https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp,Brazil,Campinas,Latin America,Public,15,L
+University of Cape Town,2017,191,48,https://www.topuniversities.com/universities/university-cape-town,South Africa,Cape Town,Africa,Public,14,L
+University of Technology Sydney,2017,193,47.8,https://www.topuniversities.com/universities/university-technology-sydney,Australia,Haymarket,Oceania,Public,16,L
+Queen's University Belfast,2017,195,47.5,https://www.topuniversities.com/universities/queens-university-belfast,United Kingdom,,Europe,Public,10,L
+Stockholm University,2017,196,47.2,https://www.topuniversities.com/universities/stockholm-university,Sweden,Stockholm,Europe,Public,12,L
+University of Calgary,2017,196,47.2,https://www.topuniversities.com/universities/university-calgary,Canada,Calgary,North America,Public,12,XL
+Western University,2017,198,47.1,https://www.topuniversities.com/universities/western-university,Canada,London,North America,Public,22,L
+Vrije Universiteit Amsterdam,2017,199,46.8,https://www.topuniversities.com/universities/vrije-universiteit-amsterdam,Netherlands,Amsterdam,Europe,Public,10,L
+Universidad de Chile,2017,200,46.7,https://www.topuniversities.com/universities/universidad-de-chile,Chile,Santiago,Latin America,Public,15,XL
+Waseda University,2017,201,46.5,https://www.topuniversities.com/universities/waseda-university,Japan,Tokyo,Asia,Private,11,XL
+Case Western Reserve University,2017,202,46.4,https://www.topuniversities.com/universities/case-western-reserve-university,United States,Cleveland,North America,Private,7,M
+Universitat Autònoma de Barcelona,2017,203,46.3,https://www.topuniversities.com/universities/universitat-autonoma-de-barcelona,Spain,Barcelona,Europe,Public,15,XL
+Vanderbilt University,2017,203,46.3,https://www.topuniversities.com/universities/vanderbilt-university,United States,Nashville,North America,Private,3,L
+University of Notre Dame,2017,203,46.3,https://www.topuniversities.com/universities/university-notre-dame,United States,Notre Dame,North America,Private,8,L
+Université Grenoble Alpes,2017,206,46.1,https://www.topuniversities.com/universities/universite-grenoble-alpes,France,Grenoble,Europe,Public,17,XL
+Tecnológico de Monterrey,2017,206,46.1,https://www.topuniversities.com/universities/tecnologico-de-monterrey,Mexico,Monterrey,Latin America,Private,8,XL
+Alma Mater Studiorum - University of Bologna,2017,208,46,https://www.topuniversities.com/universities/alma-mater-studiorum-university-bologna,Italy,Bologna,Europe,Public,24,XL
+University of Antwerp,2017,209,45.8,https://www.topuniversities.com/universities/university-antwerp,Belgium,Antwerp,Europe,Public,9,L
+Universidad Autónoma de Madrid,2017,210,45.7,https://www.topuniversities.com/universities/universidad-autonoma-de-madrid,Spain,Madrid,Europe,Public,10,L
+Technische Universität Dresden,2017,210,45.7,https://www.topuniversities.com/universities/technische-universitat-dresden,Germany,Dresden,Europe,Public,7,XL
+Tel Aviv University,2017,212,45.6,https://www.topuniversities.com/universities/tel-aviv-university,Israel,Tel Aviv,Asia,Public,22,L
+Technion - Israel Institute of Technology,2017,213,45.5,https://www.topuniversities.com/universities/technion-israel-institute-technology,Israel,Haifa,Asia,Public,8,L
+University of Canterbury,2017,214,40,https://www.topuniversities.com/universities/university-canterbury,New Zealand,Christchurch,Oceania,Public,17,L
+Georgetown University,2017,214,45.4,https://www.topuniversities.com/universities/georgetown-university,United States,Washington D.C.,North America,Private,8,L
+Keio University,2017,216,45.1,https://www.topuniversities.com/universities/keio-university,Japan,Tokyo,Asia,Private,8,XL
+Universite libre de Bruxelles,2017,216,45.1,https://www.topuniversities.com/universities/universite-libre-de-bruxelles,Belgium,Brussels,Europe,Public,23,L
+University of Wollongong,2017,218,44.7,https://www.topuniversities.com/universities/university-wollongong,Australia,Wollongong,Oceania,Public,13,L
+Indian Institute of Technology Bombay (IITB),2017,219,44.6,https://www.topuniversities.com/universities/indian-institute-technology-bombay-iitb,India,Mumbai,Asia,Public,11,M
+Sciences Po ,2017,220,38.1,https://www.topuniversities.com/universities/sciences-po,France,Paris,Europe,Public,6,M
+Université Paris-Sorbonne (Paris IV),2017,221,37.9,https://www.topuniversities.com/universities/universite-paris-sorbonne-paris-iv,France,Paris,Europe,Public,9,XL
+Arizona State University,2017,222,44.2,https://www.topuniversities.com/universities/arizona-state-university,United States,Phoenix,North America,Public,17,XL
+Sapienza University of Rome,2017,223,44,https://www.topuniversities.com/universities/sapienza-university-rome,Italy,Rome,Europe,Public,23,XL
+Queen's University at Kingston,2017,223,44,https://www.topuniversities.com/universities/queens-university-kingston,Canada,Kingston,North America,Public,19,L
+University of Tsukuba,2017,225,43.8,https://www.topuniversities.com/universities/university-tsukuba,Japan,Tsukuba City,Asia,Public,8,L
+Simon Fraser University,2017,226,43.6,https://www.topuniversities.com/universities/simon-fraser-university,Canada,Burnaby,North America,Public,21,L
+King Saud University,2017,227,43.4,https://www.topuniversities.com/universities/king-saud-university,Saudi Arabia,Riyadh,Asia,Public,9,XL
+Université Paris 1 Panthéon-Sorbonne,2017,228,43.3,https://www.topuniversities.com/universities/universite-paris-1-pantheon-sorbonne,France,Paris,Europe,Public,21,XL
+Victoria University of Wellington,2017,228,43.3,https://www.topuniversities.com/universities/victoria-university-wellington,New Zealand,"Kelburn, Wellington",Oceania,Public,16,L
+American University of Beirut (AUB),2017,228,43.3,https://www.topuniversities.com/universities/american-university-beirut-aub,Lebanon,Beirut ,Asia,Private,8,M
+Rheinische Friedrich-Wilhelms-Universität Bonn,2017,231,43,https://www.topuniversities.com/universities/rheinische-friedrich-wilhelms-universitat-bonn,Germany,Bonn,Europe,Public,5,L
+Universität Hamburg,2017,232,42.9,https://www.topuniversities.com/universities/universitat-hamburg,Germany,Hamburg,Europe,Public,14,L
+The University of Arizona,2017,233,42.8,https://www.topuniversities.com/universities/university-arizona,United States,Tucson,North America,Public,6,XL
+University of Turku,2017,234,42.7,https://www.topuniversities.com/universities/university-turku,Finland,Turku,Europe,Public,8,L
+Royal Holloway University of London,2017,235,42.6,https://www.topuniversities.com/universities/royal-holloway-university-london,United Kingdom,Egham,Europe,Public,13,M
+Al-Farabi Kazakh National University,2017,236,42.5,https://www.topuniversities.com/universities/al-farabi-kazakh-national-university,Kazakhstan,Almaty,Asia,Public,6,L
+Loughborough University,2017,237,42.3,https://www.topuniversities.com/universities/loughborough-university,United Kingdom,Loughborough,Europe,Public,12,L
+Tufts University,2017,238,42.2,https://www.topuniversities.com/universities/tufts-university,United States,Medford,North America,Private,8,M
+Complutense University of Madrid,2017,239,42.1,https://www.topuniversities.com/universities/complutense-university-madrid,Spain,Madrid,Europe,Public,13,XL
+University of Leicester,2017,239,42.1,https://www.topuniversities.com/universities/university-leicester,United Kingdom,Leicester,Europe,Public,10,L
+National Cheng Kung University (NCKU),2017,241,42,https://www.topuniversities.com/universities/national-cheng-kung-university-ncku,Taiwan,Tainan City,Asia,Public,10,L
+Université Paris-Saclay,2017,241,42,https://www.topuniversities.com/universities/universite-paris-saclay,France,,Europe,Public,5,XL
+National Taiwan University of Science and Technology (Taiwan Tech),2017,243,41.7,https://www.topuniversities.com/universities/national-taiwan-university-science-technology-taiwan-tech,Taiwan,Taipei City,Asia,Public,9,M
+ University of Dundee,2017,244,41.6,https://www.topuniversities.com/universities/university-dundee,United Kingdom,Dundee,Europe,Public,14,L
+"The University of Newcastle, Australia (UON)",2017,245,41.3,https://www.topuniversities.com/universities/university-newcastle-australia-uon,Australia,Callaghan,Oceania,Public,11,L
+University of Navarra,2017,245,41.3,https://www.topuniversities.com/universities/university-navarra,Spain,Pamplona,Europe,Private,9,M
+Macquarie University,2017,247,41.2,https://www.topuniversities.com/universities/macquarie-university,Australia,Sydney,Oceania,Public,14,L
+Technical University of Darmstadt,2017,247,41.2,https://www.topuniversities.com/universities/technical-university-darmstadt,Germany,Darmstadt,Europe,Public,20,L
+Indian Institute of Technology Madras (IITM),2017,249,41,https://www.topuniversities.com/universities/indian-institute-technology-madras-iitm,India,Chennai,Asia,Public,11,M
+National University of Ireland Galway,2017,249,41,https://www.topuniversities.com/universities/national-university-ireland-galway,Ireland,Galway,Europe,Public,8,L
+University of Massachusetts Amherst,2017,251,40.8,https://www.topuniversities.com/universities/university-massachusetts-amherst,United States,Amherst,North America,Public,14,L
+Chulalongkorn University,2017,252,40.6,https://www.topuniversities.com/universities/chulalongkorn-university,Thailand,Bangkok,Asia,Public,10,XL
+RMIT University,2017,252,40.6,https://www.topuniversities.com/universities/rmit-university,Australia,Melbourne,Oceania,Public,18,XL
+SOAS University of London ,2017,252,40.6,https://www.topuniversities.com/universities/soas-university-london,United Kingdom,London,Europe,Public,11,S
+University of East Anglia (UEA),2017,252,40.6,https://www.topuniversities.com/universities/university-east-anglia-uea,United Kingdom,Norwich,Europe,Public,13,L
+University of Miami,2017,252,40.6,https://www.topuniversities.com/universities/university-miami,United States,Miami,North America,Private,6,L
+Beijing Normal University ,2017,257,40.4,https://www.topuniversities.com/universities/beijing-normal-university,China (Mainland),Beijing,Asia,Public,11,L
+Saint Petersburg State University,2017,258,40.1,https://www.topuniversities.com/universities/saint-petersburg-state-university,Russia,Saint Petersburg,Europe,Public,8,L
+Norwegian University of Science And Technology,2017,259,39.8,https://www.topuniversities.com/universities/norwegian-university-science-technology,Norway,Trondheim,Europe,Public,12,XL
+Université de Strasbourg,2017,260,39.6,https://www.topuniversities.com/universities/universite-de-strasbourg,France,Strasbourg,Europe,Public,21,XL
+University of Surrey,2017,261,39.5,https://www.topuniversities.com/universities/university-surrey,United Kingdom,Guildford,Europe,Public,13,L
+Université Diderot  Paris 7,2017,262,34.7,https://www.topuniversities.com/universities/universite-diderot-paris-7,France,Paris,Europe,Public,17,XL
+Universität Stuttgart,2017,263,39.3,https://www.topuniversities.com/universities/universitat-stuttgart,Germany,Stuttgart,Europe,Public,17,L
+Goethe-University Frankfurt am Main,2017,264,39.2,https://www.topuniversities.com/universities/goethe-university-frankfurt-am-main,Germany,Frankfurt,Europe,Public,12,XL
+University of Gothenburg,2017,264,39.2,https://www.topuniversities.com/universities/university-gothenburg,Sweden,Gothenburg,Europe,Public,8,L
+Kyung Hee University,2017,264,39.2,https://www.topuniversities.com/universities/kyung-hee-university,South Korea,,Asia,Private,7,L
+ENS Paris-Saclay,2017,264,34.6,https://www.topuniversities.com/universities/ens-paris-saclay,France,Cachan,Europe,Public,6,S
+Ecole des Ponts ParisTech,2017,268,39.1,https://www.topuniversities.com/universities/ecole-des-ponts-paristech,France,Paris,Europe,Public,6,S
+Universidad Nacional de Colombia,2017,269,38.9,https://www.topuniversities.com/universities/universidad-nacional-de-colombia,Colombia,Bogotá,Latin America,Public,14,XL
+Universiti Putra Malaysia (UPM),2017,270,38.8,https://www.topuniversities.com/universities/universiti-putra-malaysia-upm,Malaysia,Seri Kembangan,Asia,Public,8,L
+"University of California, Riverside",2017,271,38.7,https://www.topuniversities.com/universities/university-california-riverside,United States,Riverside,North America,Public,17,L
+Universidad de los Andes,2017,272,38.5,https://www.topuniversities.com/universities/universidad-de-los-andes,Colombia,Bogotá,Latin America,Private,13,L
+Friedrich-Alexander-Universität Erlangen-Nürnberg,2017,272,38.5,https://www.topuniversities.com/universities/friedrich-alexander-universitat-erlangen-nurnberg,Germany,Erlangen,Europe,Public,32,XL
+University of Strathclyde,2017,272,38.5,https://www.topuniversities.com/universities/university-strathclyde,United Kingdom,Glasgow,Europe,Public,13,L
+Wuhan University,2017,275,38.2,https://www.topuniversities.com/universities/wuhan-university,China (Mainland),Wuhan,Asia,Public,14,XL
+Queensland University of Technology (QUT),2017,276,38.1,https://www.topuniversities.com/universities/queensland-university-technology-qut,Australia,Brisbane,Oceania,Public,17,XL
+North Carolina State University,2017,277,38,https://www.topuniversities.com/universities/north-carolina-state-university,United States,Raleigh,North America,Public,15,L
+Harbin Institute of Technology,2017,278,37.9,https://www.topuniversities.com/universities/harbin-institute-technology,China (Mainland),Harbin,Asia,Public,9,XL
+Hong Kong Baptist University,2017,278,37.9,https://www.topuniversities.com/universities/hong-kong-baptist-university,Hong Kong SAR,Hong Kong,Asia,Public,9,M
+Universidad Carlos III de Madrid (UC3M),2017,280,37.8,https://www.topuniversities.com/universities/universidad-carlos-iii-de-madrid-uc3m,Spain,Madrid,Europe,Public,9,L
+"Birkbeck, University of London",2017,280,37.8,https://www.topuniversities.com/universities/birkbeck-university-london,United Kingdom,London,Europe,Public,14,M
+Linköping University,2017,282,37.7,https://www.topuniversities.com/universities/linkoping-university,Sweden,Linköping,Europe,Public,11,L
+Mahidol University,2017,283,37.6,https://www.topuniversities.com/universities/mahidol-university,Thailand,Nakhon Pathom,Asia,Public,7,L
+Universitat Pompeu Fabra (Barcelona),2017,283,37.6,https://www.topuniversities.com/universities/universitat-pompeu-fabra,Spain,Barcelona,Europe,Public,16,L
+University College Cork,2017,283,37.6,https://www.topuniversities.com/universities/university-college-cork,Ireland,Cork,Europe,Public,10,L
+King Abdulaziz University (KAU),2017,283,37.6,https://www.topuniversities.com/universities/king-abdulaziz-university-kau,Saudi Arabia,Jeddah,Asia,Public,8,XL
+Dalhousie University,2017,283,37.6,https://www.topuniversities.com/universities/dalhousie-university,Canada,Halifax,North America,Public,14,L
+University of South Australia,2017,288,37.4,https://www.topuniversities.com/universities/university-south-australia,Australia,Magill,Oceania,Public,13,L
+Universiti Teknologi Malaysia ,2017,288,37.4,https://www.topuniversities.com/universities/universiti-teknologi-malaysia,Malaysia,Skudai,Asia,Public,11,L
+University of St.Gallen (HSG),2017,288,37.4,https://www.topuniversities.com/universities/university-stgallen-hsg,Switzerland,St. Gallen,Europe,Public,20,M
+Indiana University Bloomington,2017,291,37.3,https://www.topuniversities.com/universities/indiana-university-bloomington,United States,Bloomington,North America,Public,11,XL
+University of Ottawa,2017,291,37.3,https://www.topuniversities.com/universities/university-ottawa,Canada,Ottawa,North America,Public,22,XL
+Novosibirsk State University,2017,291,37.3,https://www.topuniversities.com/universities/novosibirsk-state-university,Russia,Novosibirsk ,Europe,Public,6,M
+Westfälische Wilhelms-Universität Münster ,2017,294,37.2,https://www.topuniversities.com/universities/westfalische-wilhelms-universitat-munster,Germany,Münster,Europe,Public,10,XL
+Umea University,2017,294,37.2,https://www.topuniversities.com/universities/umea-university,Sweden,Umeå,Europe,Public,7,L
+"University of California, Santa Cruz",2017,296,37.1,https://www.topuniversities.com/universities/university-california-santa-cruz,United States,Santa Cruz,North America,Public,18,L
+Sun Yat-sen University,2017,297,37,https://www.topuniversities.com/universities/sun-yat-sen-university,China (Mainland),Guangzhou,Asia,Public,8,XL
+Hiroshima University,2017,297,37,https://www.topuniversities.com/universities/hiroshima-university,Japan,Higashihiroshima City,Asia,Public,6,L
+Universität Innsbruck,2017,299,36.9,https://www.topuniversities.com/universities/universitat-innsbruck,Austria,Innsbruck,Europe,Public,8,L
+Boston College,2017,299,36.9,https://www.topuniversities.com/universities/boston-college,United States,Newton,North America,Private,13,L
+Rutgers University–New Brunswick,2017,301,36.8,https://www.topuniversities.com/universities/rutgers-university-new-brunswick,United States,New Brunswick,North America,Public,9,XL
+Charles University,2017,302,36.7,https://www.topuniversities.com/universities/charles-university,Czech Republic,Prague,Europe,Public,9,XL
+Universiti Kebangsaan Malaysia (UKM),2017,302,36.7,https://www.topuniversities.com/universities/universiti-kebangsaan-malaysia-ukm,Malaysia,Bangi,Asia,Public,6,L
+Indian Institute of Technology Kanpur (IITK),2017,302,36.7,https://www.topuniversities.com/universities/indian-institute-technology-kanpur-iitk,India,Kanpur,Asia,Public,13,M
+Politecnico di Torino,2017,305,36.4,https://www.topuniversities.com/universities/politecnico-di-torino,Italy,Turin,Europe,Public,29,XL
+Curtin University,2017,306,36.3,https://www.topuniversities.com/universities/curtin-university,Australia,Perth,Oceania,Public,14,L
+Bauman Moscow State Technical University,2017,306,36.3,https://www.topuniversities.com/universities/bauman-moscow-state-technical-university,Russia,Moscow,Europe,Public,4,L
+Universidad Austral,2017,308,36.2,https://www.topuniversities.com/universities/universidad-austral,Argentina,Pilar,Latin America,Private,7,S
+National Yang Ming University,2017,308,34.4,https://www.topuniversities.com/universities/national-yang-ming-university,Taiwan,Taipei City,Asia,Public,4,S
+National Taiwan Normal University,2017,310,36,https://www.topuniversities.com/universities/national-taiwan-normal-university,Taiwan,Taipei City,Asia,Public,8,M
+Pontificia Universidad Católica Argentina,2017,310,36,https://www.topuniversities.com/universities/pontificia-universidad-catolica-argentina,Argentina,Buenos Aires,Latin America,Private,4,L
+Rensselaer Polytechnic Institute,2017,310,36,https://www.topuniversities.com/universities/rensselaer-polytechnic-institute,United States,Troy,North America,Private,12,M
+Indian Institute of Technology Kharagpur (IIT-KGP),2017,313,35.9,https://www.topuniversities.com/universities/indian-institute-technology-kharagpur-iit-kgp,India,Kharagpur,Asia,Public,15,M
+"City, University of London",2017,314,35.8,https://www.topuniversities.com/universities/city-university-london,United Kingdom,London,Europe,Public,16,L
+Nankai University,2017,315,35.7,https://www.topuniversities.com/universities/nankai-university,China (Mainland),Tianjin,Asia,Public,11,XL
+Tongji University,2017,315,35.7,https://www.topuniversities.com/universities/tongji-university,China (Mainland),Shanghai,Asia,Public,11,XL
+Université de Liège,2017,315,35.7,https://www.topuniversities.com/universities/universite-de-liege,Belgium,Arlon,Europe,Public,13,L
+Xi’an Jiaotong University,2017,318,35.6,https://www.topuniversities.com/universities/xian-jiaotong-university,China (Mainland),Xi'an,Asia,Public,12,XL
+Tampere University of Technology ,2017,319,30,https://www.topuniversities.com/universities/tampere-university-technology,Finland,Tampere,Europe,Public,8,M
+Ben-Gurion University of The Negev,2017,320,35.4,https://www.topuniversities.com/universities/ben-gurion-university-negev,Israel,Be'er Sheva,Asia,Public,15,L
+Universidade Federal do Rio de Janeiro,2017,321,35.3,https://www.topuniversities.com/universities/universidade-federal-do-rio-de-janeiro,Brazil,Rio de Janeiro,Latin America,Public,11,XL
+Universitat Politècnica de Catalunya · BarcelonaTech (UPC),2017,321,35.3,https://www.topuniversities.com/universities/universitat-politecnica-de-catalunya-barcelonatech-upc,Spain,Barcelona,Europe,Public,9,L
+University of Porto,2017,323,35.2,https://www.topuniversities.com/universities/university-porto,Portugal,Porto,Europe,Public,14,L
+University of Waikato,2017,324,35.1,https://www.topuniversities.com/universities/university-waikato,New Zealand,Hamilton ,Oceania,Public,14,M
+Universitas Indonesia,2017,325,35,https://www.topuniversities.com/universities/universitas-indonesia,Indonesia,Depok,Asia,Public,10,XL
+University of Victoria (UVic),2017,325,35,https://www.topuniversities.com/universities/university-victoria-uvic,Canada,Victoria,North America,Public,26,L
+Université de Montpellier,2017,327,34.8,https://www.topuniversities.com/universities/universite-de-montpellier,France,Montpellier,Europe,Public,17,XL
+Heriot-Watt University,2017,327,34.8,https://www.topuniversities.com/universities/heriot-watt-university,United Kingdom,Edinburgh,Europe,Public,12,M
+Tokyo Medical and Dental University (TMDU),2017,329,34.7,https://www.topuniversities.com/universities/tokyo-medical-dental-university-tmdu,Japan,Tokyo,Asia,Public,3,S
+University of Lisbon ,2017,330,34.6,https://www.topuniversities.com/universities/university-lisbon,Portugal,Lisbon ,Europe,Public,14,XL
+Universiti Sains Malaysia (USM),2017,330,34.6,https://www.topuniversities.com/universities/universiti-sains-malaysia-usm,Malaysia,Gelugor,Asia,Public,8,L
+Tilburg University,2017,330,34.6,https://www.topuniversities.com/universities/tilburg-university,Netherlands,Tilburg,Europe,Public,15,M
+"Essex, University of",2017,330,34.6,https://www.topuniversities.com/universities/essex-university,United Kingdom,Colchester,Europe,Public,14,L
+Yeshiva University,2017,330,34.6,https://www.topuniversities.com/universities/yeshiva-university,United States,New York City,North America,Private,10,S
+Ewha Womans University,2017,335,34.5,https://www.topuniversities.com/universities/ewha-womans-university,South Korea,Seoul,Asia,Private,7,L
+Griffith University,2017,336,34.4,https://www.topuniversities.com/universities/griffith-university,Australia,Nathan,Oceania,Public,17,XL
+Gwangju Institute of Science and Technology (GIST),2017,337,34.3,https://www.topuniversities.com/universities/gwangju-institute-science-technology-gist,South Korea,Gwangju,Asia,Public,10,S
+Università di Padova,2017,338,39.6,https://www.topuniversities.com/universities/universita-di-padova,Italy,Padua,Europe,Public,17,XL
+University of Jyväskylä,2017,338,34.2,https://www.topuniversities.com/universities/university-jyvaskyla,Finland,Jyväskylä,Europe,Public,7,M
+Massey University,2017,340,34.1,https://www.topuniversities.com/universities/massey-university,New Zealand,Palmerston North,Oceania,Public,9,M
+James Cook University,2017,340,34.1,https://www.topuniversities.com/universities/james-cook-university,Australia,Townsville,Oceania,Public,11,M
+University at Buffalo SUNY,2017,342,34,https://www.topuniversities.com/universities/university-buffalo-suny,United States,Buffalo,North America,Public,19,L
+Lincoln University ,2017,343,33.9,https://www.topuniversities.com/universities/lincoln-university,New Zealand,Lincoln,Oceania,Public,9,S
+University of Hawaiʻi at Mānoa,2017,343,33.9,https://www.topuniversities.com/universities/university-hawaii-manoa,United States,Honolulu,North America,Public,9,L
+Brunel University London,2017,345,33.8,https://www.topuniversities.com/universities/brunel-university-london,United Kingdom,,Europe,Public,16,L
+L.N. Gumilyov Eurasian National University (ENU),2017,345,33.8,https://www.topuniversities.com/universities/ln-gumilyov-eurasian-national-university-enu,Kazakhstan,Nur-Sultan,Asia,Public,5,L
+University of Cologne,2017,347,33.6,https://www.topuniversities.com/universities/university-cologne,Germany,Cologne,Europe,Public,11,XL
+University of Tartu,2017,347,33.6,https://www.topuniversities.com/universities/university-tartu,Estonia,Tartu,Europe,Public,7,M
+University Ulm,2017,347,31.4,https://www.topuniversities.com/universities/university-ulm,Germany,Ulm,Europe,Public,7,M
+Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),2017,350,33.4,https://www.topuniversities.com/universities/moscow-institute-physics-technology-mipt-moscow-phystech,Russia,Dolgoprudny,Europe,Public,5,M
+MGIMO University,2017,350,31,https://www.topuniversities.com/universities/mgimo-university,Russia,Moscow,Europe,Public,4,M
+Universität Konstanz,2017,352,33.2,https://www.topuniversities.com/universities/universitat-konstanz,Germany,Konstanz,Europe,Public,11,M
+Universidad de Belgrano,2017,352,33.2,https://www.topuniversities.com/universities/universidad-de-belgrano,Argentina,Buenos Aires,Latin America,Private,6,M
+Belarusian State University,2017,354,33,https://www.topuniversities.com/universities/belarusian-state-university,Belarus,Minsk,Europe,Public,5,L
+Deakin University,2017,355,32.9,https://www.topuniversities.com/universities/deakin-university,Australia,Geelong,Oceania,Public,23,XL
+"Université Paris-Dauphine, Université PSL",2017,356,33.4,https://www.topuniversities.com/universities/universite-paris-dauphine-universite-psl,France,Paris,Europe,Public,12,M
+Aston University,2017,358,32.7,https://www.topuniversities.com/universities/aston-university,United Kingdom,Birmingham,Europe,Public,16,M
+University of Witwatersrand,2017,359,32.6,https://www.topuniversities.com/universities/university-witwatersrand,South Africa,Johannesburg,Africa,Public,15,L
+Oxford Brookes University,2017,359,32.6,https://www.topuniversities.com/universities/oxford-brookes-university,United Kingdom,,Europe,Public,15,L
+Virginia Polytechnic Institute and State University,2017,361,32.4,https://www.topuniversities.com/universities/virginia-polytechnic-institute-state-university,United States,Blacksburg,North America,Public,12,XL
+Northeastern University,2017,361,32.4,https://www.topuniversities.com/universities/northeastern-university,United States,Boston,North America,Private,12,L
+George Washington University,2017,363,32.3,https://www.topuniversities.com/universities/george-washington-university,United States,Ashburn,North America,Private,11,L
+Universität Jena,2017,363,32.3,https://www.topuniversities.com/universities/universitat-jena,Germany,Jena,Europe,Public,4,L
+The American University in Cairo,2017,365,32.2,https://www.topuniversities.com/universities/american-university-cairo,Egypt,Cairo,Africa,Private,10,M
+University of Warsaw ,2017,366,32.1,https://www.topuniversities.com/universities/university-warsaw,Poland,Warsaw,Europe,Public,10,XL
+Universidade Nova de Lisboa,2017,366,32.1,https://www.topuniversities.com/universities/universidade-nova-de-lisboa,Portugal,Lisbon,Europe,Public,12,L
+University of Kent,2017,366,32.1,https://www.topuniversities.com/universities/university-kent,United Kingdom,Paris,Europe,Public,13,L
+Kobe University,2017,369,32,https://www.topuniversities.com/universities/kobe-university,Japan,Kobe City,Asia,Public,8,L
+University of Milan,2017,370,31.9,https://www.topuniversities.com/universities/university-milan,Italy,Milan,Europe,Public,20,XL
+University of Tasmania,2017,370,31.9,https://www.topuniversities.com/universities/university-tasmania,Australia,Hobart,Oceania,Public,13,L
+Université Laval,2017,372,31.8,https://www.topuniversities.com/universities/universite-laval,Canada,Québec,North America,Public,11,L
+University of Kansas,2017,373,31.7,https://www.topuniversities.com/universities/university-kansas,United States,Lawrence,North America,Public,7,L
+University of the Philippines,2017,374,31.5,https://www.topuniversities.com/universities/university-philippines,Philippines,Quezon City,Asia,Public,9,XL
+Aalborg University,2017,374,31.5,https://www.topuniversities.com/universities/aalborg-university,Denmark,Aalborg,Europe,Public,10,L
+"University of Colorado, Denver ",2017,374,31.5,https://www.topuniversities.com/universities/university-colorado-denver,United States,Denver,North America,Public,3,L
+Université Paris Descartes,2017,377,,https://www.topuniversities.com/universities/universite-paris-descartes,France,Paris ,Europe,Public,17,XL
+Tomsk State University,2017,377,31.4,https://www.topuniversities.com/universities/tomsk-state-university,Russia,Tomsk,Europe,Public,5,M
+University of Tromsø The Arctic University of Norway,2017,377,31.4,https://www.topuniversities.com/universities/university-tromso-arctic-university-norway,Norway,Tromsø,Europe,Public,7,L
+Dublin City University,2017,380,31.3,https://www.topuniversities.com/universities/dublin-city-university,Ireland,Dublin,Europe,Public,11,L
+University of Texas Dallas,2017,380,31.3,https://www.topuniversities.com/universities/university-texas-dallas,United States,Richardson,North America,Public,22,L
+University of Eastern Finland,2017,382,31.2,https://www.topuniversities.com/universities/university-eastern-finland,Finland,Kuopio,Europe,Public,10,M
+V. N. Karazin Kharkiv National University,2017,382,31.2,https://www.topuniversities.com/universities/v-n-karazin-kharkiv-national-university,Ukraine,Kharkiv,Europe,Public,8,L
+American University,2017,384,31.1,https://www.topuniversities.com/universities/american-university,United States,Washington D.C.,North America,Private,11,M
+University of Stirling,2017,385,31,https://www.topuniversities.com/universities/university-stirling,United Kingdom,Stirling,Europe,Public,14,M
+Colorado State University,2017,386,30.9,https://www.topuniversities.com/universities/colorado-state-university,United States,Fort Collins,North America,Public,8,L
+Chung-Ang University (CAU),2017,386,30.9,https://www.topuniversities.com/universities/chung-ang-university-cau,South Korea,Seoul,Asia,Private,8,L
+La Trobe University,2017,386,30.9,https://www.topuniversities.com/universities/la-trobe-university,Australia,Melbourne,Oceania,Public,20,L
+Beijing Institute of Technology,2017,389,30.8,https://www.topuniversities.com/universities/beijing-institute-technology,China (Mainland),Beijing,Asia,Public,11,XL
+"Stony Brook University, State University of New York",2017,390,30.7,https://www.topuniversities.com/universities/stony-brook-university-state-university-new-york,United States,Stony Brook,North America,Public,11,L
+Swansea University,2017,390,30.7,https://www.topuniversities.com/universities/swansea-university,United Kingdom,Swansea,Europe,Public,11,L
+University of Southern Denmark (SDU),2017,390,30.7,https://www.topuniversities.com/universities/university-southern-denmark-sdu,Denmark,Odense,Europe,Public,10,L
+University of Iowa,2017,393,30.6,https://www.topuniversities.com/universities/university-iowa,United States,Iowa City,North America,Public,10,L
+Qatar University,2017,393,30.6,https://www.topuniversities.com/universities/qatar-university,Qatar,Doha,Asia,Public,8,M
+Stellenbosch University,2017,395,30.5,https://www.topuniversities.com/universities/stellenbosch-university,South Africa,Stellenbosch,Africa,Public,25,L
+Washington State University,2017,395,30.5,https://www.topuniversities.com/universities/washington-state-university,United States,Pullman,North America,Public,14,L
+National Sun Yat-sen University,2017,395,30.5,https://www.topuniversities.com/universities/national-sun-yat-sen-university,Taiwan,Kaohsiung City,Asia,Public,11,M
+National Technical University of Athens,2017,395,30.5,https://www.topuniversities.com/universities/national-technical-university-athens,Greece,Athens,Europe,Public,20,L
+Indian Institute of Technology Roorkee (IITR),2017,399,30.4,https://www.topuniversities.com/universities/indian-institute-technology-roorkee-iitr,India,Roorkee,Asia,Public,17,M
+Leibniz University Hannover,2017,400,30.3,https://www.topuniversities.com/universities/leibniz-university-hannover,Germany,Hanover,Europe,Public,10,L
+National Research Tomsk Polytechnic University,2017,400,30.3,https://www.topuniversities.com/universities/national-research-tomsk-polytechnic-university,Russia,,Europe,Public,6,M
